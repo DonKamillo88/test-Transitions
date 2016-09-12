@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Transition</string>
+    <string name="details_title_text">Cupcake ipsum dolor</string>
+    <string name="details_body_text">Sit amet chocolate cake sweet macaroon chupa chups. Bear claw carrot cake chocolate bar biscuit chocolate cookie. Chocolate sesame snaps candy canes bear claw dragée tootsie roll.</string>
+    <string name="grab">Grab</string>
+    <string name="detail_sample">Acne Studios\' loose-fit \'Shora\' sweater is crafted from a luxurious combination of wool and cashmere. This knitted style has ribbed trims and, Acne Studios\' loose-fit \'Shora\' sweater is crafted from a luxurious combination of wool and cashmere. This knitted style has ribbed trims and</string>
+    <string name="details_buy_button">Buy for £99.00</string>
+    <string name="name">Acne Studios</string>
+    <string name="details">Shora wool sweater</string>
+    <string name="main_price">£ 99.00</string>
+    <string name="main_fragment_title">Best of Investment Pieces</string>
+</resources>

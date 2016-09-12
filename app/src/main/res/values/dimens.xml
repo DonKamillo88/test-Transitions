@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="screen_padding_sides">16dp</dimen>
+    <dimen name="details_image_height">350dp</dimen>
+</resources>
